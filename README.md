@@ -48,6 +48,3 @@ The analysis involved rigorous data cleaning and feature engineering to ensure s
 *   **Visualization:** Plotly (Express and Graph Objects)
 *   **Environment:** Google Colab / Jupyter
 *   **Geospatial Processing:** Mapbox API
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/ncr-ride-analysis.git
